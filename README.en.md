@@ -1,3 +1,4 @@
+English | [简体中文](README.md)
 # doc2md Token Slim
 
 Batch-convert documents (PDF, Word, Excel, PowerPoint, HTML, CSV, JSON, EPUB, ZIP, Outlook and more) to Markdown **with token slimming**, then let your AI assistant execute the full task on the slimmed output — end to end, without interruption.
